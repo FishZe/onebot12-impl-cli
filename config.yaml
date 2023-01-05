@@ -1,0 +1,12 @@
+onebot:
+  host: "192.168.81.131"
+  port: 20001
+  accesstoken: ""
+  reconnectinterval: 5
+  useragent: "onebot-test-client/0.0.0"
+  impl: "onebot-test-client"
+  version: "0.0.0"
+self:
+  userid: "12345678"
+  platform: "QQ"
+  username: "想不出示例名"
